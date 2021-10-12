@@ -1,0 +1,2 @@
+# scope-of-variables
+ok
